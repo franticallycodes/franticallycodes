@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Martin and I like to code and teach. I get my dopamine from helping and making people's lives easier. I specialize in JS and C#, but I'm always open to learning new things. I'm still looking for inspiration on what to do with this README.
-
+I'm Martin and I like to code and helping people code. I get my dopamine from teaching and making people's lives easier. I specialize in C# & JS, but I'm always open to learning new things. I'm still looking for inspiration on what to do with this README.
+<!--
 #### My Productivity
 ![my github stats](https://github-readme-stats.vercel.app/api?username=franticallycodes&show_icons=true&theme=tokyonight&hide=stars,issues,contribs&count_private=true)
-
+-->
 <!--
 **franticallycodes/franticallycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
